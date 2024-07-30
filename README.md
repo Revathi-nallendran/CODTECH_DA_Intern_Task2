@@ -1,4 +1,10 @@
-# DataAnalytics_Intern_Task2
+**Name**: Revathi.N   
+**Company**: CODTECH IT SOLUTIONS      
+**ID** : CT4DA3934   
+**Domain** : Data Analytics   
+**Duration** : 5th July to 5th August (2024)
+
+# Task2
 
 # Predictive Modeling With Linear Regression Analysis
 
